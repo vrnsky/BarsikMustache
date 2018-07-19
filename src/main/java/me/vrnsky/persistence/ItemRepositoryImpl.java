@@ -1,4 +1,6 @@
 package me.vrnsky.persistence;
 
-public class ItemRepositoryImpl {
+import me.vrnsky.persistence.interfaces.ItemRepository;
+
+public class ItemRepositoryImpl implements ItemRepository {
 }

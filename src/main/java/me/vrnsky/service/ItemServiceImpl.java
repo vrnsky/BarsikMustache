@@ -1,4 +1,6 @@
 package me.vrnsky.service;
 
-public class ItemServiceImpl {
+import me.vrnsky.service.interfaces.ItemService;
+
+public class ItemServiceImpl implements ItemService {
 }

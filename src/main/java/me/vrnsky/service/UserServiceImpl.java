@@ -1,4 +1,6 @@
 package me.vrnsky.service;
 
-public class UserServiceImpl {
+import me.vrnsky.service.interfaces.UserService;
+
+public class UserServiceImpl implements UserService {
 }

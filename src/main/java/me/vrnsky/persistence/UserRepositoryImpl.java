@@ -1,4 +1,6 @@
 package me.vrnsky.persistence;
 
-public class UserRepositoryImpl {
+import me.vrnsky.persistence.interfaces.UserRepository;
+
+public class UserRepositoryImpl implements UserRepository {
 }

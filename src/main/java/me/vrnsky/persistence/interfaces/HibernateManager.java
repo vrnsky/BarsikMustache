@@ -1,4 +1,4 @@
 package me.vrnsky.persistence.interfaces;
 
-public class HibernateManager {
+public interface HibernateManager {
 }

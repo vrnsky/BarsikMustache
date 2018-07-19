@@ -1,4 +1,4 @@
-package me.vrnsky.service;
+package me.vrnsky.service.interfaces;
 
-public class ItemService {
+public interface ItemService {
 }
