@@ -12,5 +12,5 @@ First of all Barsik Mustache will be web application, which allow user create a 
 If you newbie to github or java glad I will be glad your participate to my project. Issue which will be marked good-first-issue is for new contributors which would like to have some experienced work on the team. 
 
 ## Contacts
-You may write me to the gitter: vrnsky.
-Twitter:<a href="https://twitter.com/VoronyanskyE">I at the Twitter</a>
+You may write me to the gitter: vrnsky.<br />
+<a href="https://twitter.com/VoronyanskyE">Or write me on the twitter</a>
