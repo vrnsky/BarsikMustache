@@ -1,6 +1,7 @@
 # Barsik Mustache
 
 ## Why I start made it app?
+![Logo of the app](https://s1.piq.land/2011/11/21/q9ngIpSm0Ev9wNvMn8VQQAbG_400x400.png)
 
 I search at the web some ideas for project and meet a beautiful article about pet projects on the medium <a href="https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c">Some ideas</a>. This article have two parts. I would like to made a to-do application.
 
