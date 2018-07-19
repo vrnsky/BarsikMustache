@@ -1,4 +1,4 @@
-# BarsikMustache
+# Barsik Mustache
 
 ## Why I start made it app?
 
