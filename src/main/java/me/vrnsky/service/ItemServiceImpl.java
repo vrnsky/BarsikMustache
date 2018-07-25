@@ -11,6 +11,9 @@ import java.util.List;
 @Service
 public class ItemServiceImpl implements ItemService {
 
+    /**
+     * Instance of item repository.
+     */
     private ItemRepository repository;
 
     @Autowired
