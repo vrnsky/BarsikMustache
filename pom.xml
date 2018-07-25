@@ -4,7 +4,7 @@
  
   <groupId>me.vrnsky.</groupId>
   <artifactId>barsikmustache</artifactId>
-  <version>0.1 - SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
  
   <name>Barsik Mustache</name>
