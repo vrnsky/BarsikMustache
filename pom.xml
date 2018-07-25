@@ -67,6 +67,7 @@
   </dependencies>
 
   <build>
+    <finalName>barsik-mustache</finalName>
     <plugins>
       <plugin>
         <groupId>org.eclipse.jetty</groupId>
@@ -90,6 +91,16 @@
             <goals><goal>copy-dependencies</goal></goals>
           </execution>
         </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>2.6</version>
+        <configuration>
+          <warSourceDirectory>src/main/webapp</warSourceDirectory>
+          <warName>barsik-mustache</warName>
+          <failOnMissingWebXml>false</failOnMissingWebXml>
+        </configuration>
       </plugin>
     </plugins>
   </build>
